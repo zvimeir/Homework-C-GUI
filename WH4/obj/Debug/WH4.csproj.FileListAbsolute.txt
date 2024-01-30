@@ -1,0 +1,11 @@
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\bin\Debug\WH4.exe.config
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\bin\Debug\WH4.exe
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\bin\Debug\WH4.pdb
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.csproj.AssemblyReference.cache
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.csproj.SuggestedBindingRedirects.cache
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.Form1.resources
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.Properties.Resources.resources
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.csproj.GenerateResource.cache
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.csproj.CoreCompileInputs.cache
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.exe
+C:\Users\zvi25\Documents\ropincpp\WH4\WH4\obj\Debug\WH4.pdb
